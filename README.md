@@ -1,10 +1,10 @@
 # QueryMaster-AI: Unleash the Power of Conversational Data Queries 🤖🧠
 
-Discover the seamless integration of natural language and database interaction with QueryMaster-AI. This innovative Streamlit app utilizes Google Gemini Pro's API to translate your conversational prompts into precise SQL queries, perfect for extracting complex data insights from an SQLite database.🔍
+Integration of natural language and database interaction with QueryMaster-AI. This innovative Streamlit app utilizes Google Gemini Pro's API to translate your conversational prompts into precise SQL queries, perfect for extracting complex data insights from an SQLite database.🔍
 
 ## Features 🌟
 
-- **Natural Language Interface**: Effortlessly input your queries in everyday language and let AI do the heavy lifting of SQL syntax.
+- **Natural Language Interface**: Input your queries in everyday language and let AI do the heavy lifting of SQL syntax.
 - **Streamlit Dashboard**: A user-friendly and interactive dashboard that simplifies your data interaction experience.
 - **SQLite Integration**: Fast, reliable, and straightforward database management for your querying needs.
 - **Environmentally Friendly**: Utilizes Python Dotenv to manage your API keys and other sensitive configurations securely.
@@ -25,11 +25,11 @@ This command will open a new tab in your default browser, ready for action.
 
 ## Crafting Your Queries 🎨
 
-When defining your prompts in the "Define Your Prompt" section, the sky's the limit. The more detailed and complex, the better – QueryMaster-AI is designed to handle intricate queries with ease, and trust me it has the capacity to do some really complex queries.
+**PLEASE NOTE:** When defining your sample prompts in the "Define Your Prompt" section, the sky's the limit. The more detailed and complex your sample prompts are, the better – QueryMaster-AI is will handle intricate queries with ease, and trust me it has the capacity to do some really complex queries.
 
 ### Sample Prompts:
 
-- "Provide the student name with the highest marks class-wise."
+- "Provide the student name with the highest marks class wise."
 - ...and more! Remember you'll have to add some samples in the "Define your prompts" section, 
 and test out diverse prompts to see the AI in action.
 
