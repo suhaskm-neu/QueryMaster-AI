@@ -34,3 +34,5 @@ This command will open a new tab in your default browser, ready for action.
 and test out diverse prompts to see the AI in action.
 
 ### Have Fun with it!
+
+![image](https://github.com/suhaskm-neu/QueryMaster-AI/assets/145060299/138900ae-2811-43c0-af22-7d2bd325afae)
