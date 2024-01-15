@@ -30,6 +30,7 @@ This command will open a new tab in your default browser, ready for action.
 ### Sample Prompts:
 
 - "Provide the student name with the highest marks class wise."
+- "provide me all the student names of the class."
 - ...and more! Remember you'll have to add some samples in the "Define your prompts" section, 
 and test out diverse prompts to see the AI in action.
 
