@@ -1,0 +1,14 @@
+1) Clone the repo, setup pip/conda env, I used conda on my syste. 
+2) Open terminal from app.py and run with command: "streamlit run app.py" which will open a tab in the local broser.
+
+You can create your own GOOGLE_API_KEY from https://makersuite.google.com/app/apikey, replace it within "" in .env file.
+
+
+Point to note: 
+In the "Define your prompt" section, try to add as many as examples as possible, cause it can handle really complex queries as well".
+Fine-tuning much LOL!
+
+Here youll find some sample prompts which work on the model.
+
+1) provide student name with highest marks class wise
+2) 
