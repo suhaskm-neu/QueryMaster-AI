@@ -1,6 +1,6 @@
 # QueryMaster-AI: Unleash the Power of Conversational Data Queries 🤖🧠
 
-Integration of natural language and database interaction with QueryMaster-AI. This innovative Streamlit app utilizes Google Gemini Pro's API to translate your conversational prompts into precise SQL queries, perfect for extracting complex data insights from an SQLite database.🔍
+Integration of natural language and database interaction with QueryMaster-AI. This Streamlit app utilizes Google Gemini Pro's API to translate your conversational prompts into precise SQL queries, perfect for extracting complex data insights from an database.🔍
 
 ## Features 🌟
 
